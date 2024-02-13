@@ -22,7 +22,7 @@ const hasTuples = (tup, n, items) => {
       }
     }
 
-    if (count >= tup) matches += 1;
+    matches += Math.floor(count / tup);
     if (matches >= n) return true;
   }
 
@@ -33,8 +33,8 @@ const rounds = 5000000;
 
 for (let d6s = 0; d6s < 6; d6s += 1) {
   console.log(`\n## ${d6s}d6:`);
-  console.log(`\n|${tests.map((t) => t[0]).join(" | ")}|`);
-  console.log(`|${tests.map(() => " --- ").join(" | ")}|`);
+  console.log(`\n| Dice | ${tests.map((t) => t[0]).join(" | ")} |`);
+  console.log(`| --- | ${tests.map(() => " --- ").join(" | ")} |`);
   for (let d10s = 0; d10s < 9; d10s += 1) {
     if (d6s + d10s < 2) continue;
 
