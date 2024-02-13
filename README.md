@@ -1,0 +1,2 @@
+- [Rules](./rules.md)
+- [Probability Table](./probabilities.md)

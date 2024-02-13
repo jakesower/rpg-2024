@@ -1,0 +1,62 @@
+0d6:
+2d10, Doubles: 9%, 2x Doubles: 0%, 3x Doubles: 0%, Triples: 0%, 2x Triples: 0%, Quadruples: 0%, Quintuples: 0%
+3d10, Doubles: 25%, 2x Doubles: 0%, 3x Doubles: 0%, Triples: 1%, 2x Triples: 0%, Quadruples: 0%, Quintuples: 0%
+4d10, Doubles: 45%, 2x Doubles: 2%, 3x Doubles: 0%, Triples: 3%, 2x Triples: 0%, Quadruples: 0%, Quintuples: 0%
+5d10, Doubles: 64%, 2x Doubles: 9%, 3x Doubles: 0%, Triples: 8%, 2x Triples: 0%, Quadruples: 0%, Quintuples: 0%
+6d10, Doubles: 79%, 2x Doubles: 23%, 3x Doubles: 1%, Triples: 14%, 2x Triples: 0%, Quadruples: 1%, Quintuples: 0%
+7d10, Doubles: 90%, 2x Doubles: 41%, 3x Doubles: 4%, Triples: 23%, 2x Triples: 0%, Quadruples: 3%, Quintuples: 0%
+8d10, Doubles: 95%, 2x Doubles: 60%, 3x Doubles: 13%, Triples: 33%, 2x Triples: 2%, Quadruples: 5%, Quintuples: 0%
+
+1d6:
+1d10, Doubles: 10%, 2x Doubles: 0%, 3x Doubles: 0%, Triples: 0%, 2x Triples: 0%, Quadruples: 0%, Quintuples: 0%
+2d10, Doubles: 27%, 2x Doubles: 0%, 3x Doubles: 0%, Triples: 1%, 2x Triples: 0%, Quadruples: 0%, Quintuples: 0%
+3d10, Doubles: 47%, 2x Doubles: 2%, 3x Doubles: 0%, Triples: 4%, 2x Triples: 0%, Quadruples: 0%, Quintuples: 0%
+4d10, Doubles: 66%, 2x Doubles: 10%, 3x Doubles: 0%, Triples: 8%, 2x Triples: 0%, Quadruples: 0%, Quintuples: 0%
+5d10, Doubles: 81%, 2x Doubles: 24%, 3x Doubles: 1%, Triples: 15%, 2x Triples: 0%, Quadruples: 1%, Quintuples: 0%
+6d10, Doubles: 91%, 2x Doubles: 43%, 3x Doubles: 5%, Triples: 24%, 2x Triples: 1%, Quadruples: 3%, Quintuples: 0%
+7d10, Doubles: 96%, 2x Doubles: 62%, 3x Doubles: 14%, Triples: 34%, 2x Triples: 2%, Quadruples: 5%, Quintuples: 0%
+8d10, Doubles: 99%, 2x Doubles: 78%, 3x Doubles: 28%, Triples: 45%, 2x Triples: 4%, Quadruples: 8%, Quintuples: 1%
+
+2d6:
+0d10, Doubles: 17%, 2x Doubles: 0%, 3x Doubles: 0%, Triples: 0%, 2x Triples: 0%, Quadruples: 0%, Quintuples: 0%
+1d10, Doubles: 33%, 2x Doubles: 0%, 3x Doubles: 0%, Triples: 2%, 2x Triples: 0%, Quadruples: 0%, Quintuples: 0%
+2d10, Doubles: 53%, 2x Doubles: 3%, 3x Doubles: 0%, Triples: 5%, 2x Triples: 0%, Quadruples: 0%, Quintuples: 0%
+3d10, Doubles: 70%, 2x Doubles: 12%, 3x Doubles: 0%, Triples: 10%, 2x Triples: 0%, Quadruples: 1%, Quintuples: 0%
+4d10, Doubles: 84%, 2x Doubles: 27%, 3x Doubles: 1%, Triples: 17%, 2x Triples: 0%, Quadruples: 2%, Quintuples: 0%
+5d10, Doubles: 92%, 2x Doubles: 46%, 3x Doubles: 5%, Triples: 26%, 2x Triples: 1%, Quadruples: 3%, Quintuples: 0%
+6d10, Doubles: 97%, 2x Doubles: 65%, 3x Doubles: 15%, Triples: 36%, 2x Triples: 2%, Quadruples: 6%, Quintuples: 1%
+7d10, Doubles: 99%, 2x Doubles: 80%, 3x Doubles: 30%, Triples: 48%, 2x Triples: 4%, Quadruples: 9%, Quintuples: 1%
+8d10, Doubles: >99.5%, 2x Doubles: 90%, 3x Doubles: 48%, Triples: 59%, 2x Triples: 9%, Quadruples: 13%, Quintuples: 2%
+
+3d6:
+0d10, Doubles: 44%, 2x Doubles: 0%, 3x Doubles: 0%, Triples: 3%, 2x Triples: 0%, Quadruples: 0%, Quintuples: 0%
+1d10, Doubles: 61%, 2x Doubles: 4%, 3x Doubles: 0%, Triples: 7%, 2x Triples: 0%, Quadruples: 0%, Quintuples: 0%
+2d10, Doubles: 76%, 2x Doubles: 14%, 3x Doubles: 0%, Triples: 13%, 2x Triples: 0%, Quadruples: 1%, Quintuples: 0%
+3d10, Doubles: 87%, 2x Doubles: 31%, 3x Doubles: 1%, Triples: 20%, 2x Triples: 0%, Quadruples: 2%, Quintuples: 0%
+4d10, Doubles: 94%, 2x Doubles: 50%, 3x Doubles: 6%, Triples: 30%, 2x Triples: 1%, Quadruples: 4%, Quintuples: 0%
+5d10, Doubles: 98%, 2x Doubles: 68%, 3x Doubles: 16%, Triples: 40%, 2x Triples: 2%, Quadruples: 7%, Quintuples: 1%
+6d10, Doubles: 99%, 2x Doubles: 82%, 3x Doubles: 32%, Triples: 51%, 2x Triples: 5%, Quadruples: 10%, Quintuples: 1%
+7d10, Doubles: >99.5%, 2x Doubles: 91%, 3x Doubles: 50%, Triples: 62%, 2x Triples: 10%, Quadruples: 15%, Quintuples: 2%
+8d10, Doubles: >99.5%, 2x Doubles: 96%, 3x Doubles: 67%, Triples: 72%, 2x Triples: 17%, Quadruples: 20%, Quintuples: 3%
+
+4d6:
+0d10, Doubles: 72%, 2x Doubles: 7%, 3x Doubles: 0%, Triples: 10%, 2x Triples: 0%, Quadruples: 1%, Quintuples: 0%
+1d10, Doubles: 83%, 2x Doubles: 19%, 3x Doubles: 0%, Triples: 17%, 2x Triples: 0%, Quadruples: 1%, Quintuples: 0%
+2d10, Doubles: 91%, 2x Doubles: 36%, 3x Doubles: 2%, Triples: 25%, 2x Triples: 0%, Quadruples: 3%, Quintuples: 0%
+3d10, Doubles: 96%, 2x Doubles: 55%, 3x Doubles: 7%, Triples: 35%, 2x Triples: 1%, Quadruples: 5%, Quintuples: 0%
+4d10, Doubles: 99%, 2x Doubles: 72%, 3x Doubles: 19%, Triples: 45%, 2x Triples: 3%, Quadruples: 8%, Quintuples: 1%
+5d10, Doubles: >99.5%, 2x Doubles: 85%, 3x Doubles: 35%, Triples: 56%, 2x Triples: 6%, Quadruples: 12%, Quintuples: 2%
+6d10, Doubles: >99.5%, 2x Doubles: 92%, 3x Doubles: 53%, Triples: 66%, 2x Triples: 12%, Quadruples: 17%, Quintuples: 3%
+7d10, Doubles: >99.5%, 2x Doubles: 97%, 3x Doubles: 69%, Triples: 75%, 2x Triples: 20%, Quadruples: 23%, Quintuples: 4%
+8d10, Doubles: >99.5%, 2x Doubles: 99%, 3x Doubles: 81%, Triples: 83%, 2x Triples: 30%, Quadruples: 29%, Quintuples: 6%
+
+5d6:
+0d10, Doubles: 91%, 2x Doubles: 27%, 3x Doubles: 0%, Triples: 21%, 2x Triples: 0%, Quadruples: 2%, Quintuples: 0%
+1d10, Doubles: 95%, 2x Doubles: 44%, 3x Doubles: 2%, Triples: 31%, 2x Triples: 0%, Quadruples: 4%, Quintuples: 0%
+2d10, Doubles: 98%, 2x Doubles: 62%, 3x Doubles: 9%, Triples: 41%, 2x Triples: 2%, Quadruples: 7%, Quintuples: 1%
+3d10, Doubles: 99%, 2x Doubles: 77%, 3x Doubles: 22%, Triples: 51%, 2x Triples: 4%, Quadruples: 10%, Quintuples: 1%
+4d10, Doubles: >99.5%, 2x Doubles: 87%, 3x Doubles: 38%, Triples: 61%, 2x Triples: 8%, Quadruples: 15%, Quintuples: 2%
+5d10, Doubles: >99.5%, 2x Doubles: 94%, 3x Doubles: 56%, Triples: 71%, 2x Triples: 14%, Quadruples: 20%, Quintuples: 3%
+6d10, Doubles: >99.5%, 2x Doubles: 97%, 3x Doubles: 71%, Triples: 79%, 2x Triples: 23%, Quadruples: 26%, Quintuples: 5%
+7d10, Doubles: >99.5%, 2x Doubles: 99%, 3x Doubles: 83%, Triples: 86%, 2x Triples: 33%, Quadruples: 33%, Quintuples: 7%
+8d10, Doubles: >99.5%, 2x Doubles: >99.5%, 3x Doubles: 90%, Triples: 91%, 2x Triples: 45%, Quadruples: 40%, Quintuples: 10%
