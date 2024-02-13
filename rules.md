@@ -66,38 +66,38 @@ Spellcasters must expend bursts to fuel magic. Magic can come in all kinds, natu
 
 ### Beneficial Statuses
 
-- High Ground: +1 to attacks, both ranged and melee
-- Blessed: +1 to all checks; Exalted: +2 to all checks
-- Berserk: +1 to melee attacks
-- Focused: +1 to all checks
-- In Motion: -2 to ranged attacks against you
-- Hastened: actions taking 6 or more time take one less time
+- `High Ground`: +1 to attacks, both ranged and melee
+- `Blessed`: +1 to all checks; Exalted: +2 to all checks
+- `Berserk`: +1 to melee attacks
+- `Focused`: +1 to all checks
+- `In Motion`: -2 to ranged attacks against you
+- `Hastened`: actions taking 6 or more time take one less time
 
 ### Mixed Statuses
 
-- Enlarged: +1 to melee attacks, +2 to time of attacks
-- Shrunken: -1 to attacks, -1 to time of attacks
+- `Enlarged`: +1 to melee attacks, +2 to time of attacks
+- `Shrunken`: -1 to attacks, -1 to time of attacks
 
 ### Negative Statuses
 
 Fire/Water spectrum: Freezing (-2), Chilled/Wet (-1), Normal, Burning (+1), Blazing (+2)
 Gaining a fire/water status moves you that many spots along the spectrum.
 
-- Blind: -2 to all melee attacks; -5 to all ranged attacks
-- Low Ground: -1 to all attacks
-- Wet: Electrical attacks gain +1 against you
-- Chilled: +1 time to all actions, doubles on toughness to negate
-- Frozen: +2 time to all actions, doubles on toughness to reduce to chilled
-- Burning: 1 damage at EOR (end of round), doubles on reflex to negate, stop drop & roll
-- Blazing: 1 damage at EOR, doubles on reflex to downgrade to burning, stop drop & roll
-- Poisoned: 1 damage at EOR (end of round), doubles on toughness to negate, become contaminated if gains another poisoned
-- Contaminated: 1 damage at EOR, doubles on toughness to downgrade to poisoned
-- Confused: No recovery of burst at EOR. Wit doubles recovers. Another instance increases to confounded.
-- Confounded: No recovery of burst at EOR, Wit reduces to confused.
-- Stunned: At start of next turn, delay 2 instead.
-- Dazed: At start of next turn, delay 2 instead then get stunned instead of dazed.
-- Flanked: +1 to all attacks against you (2 adjacent attackers not adjacent to each other)
-- Overwhelmed: +1 to all attacks against you (3+ adjacent attackers)
+- `Blind`: -2 to all melee attacks; -5 to all ranged attacks
+- `Low Ground`: -1 to all attacks
+- `Wet`: Electrical attacks gain +1 against you
+- `Chilled`: +1 time to all actions, doubles on toughness to negate
+- `Frozen`: +2 time to all actions, doubles on toughness to reduce to chilled
+- `Burning`: 1 damage at EOR (end of round), doubles on reflex to negate, stop drop & roll
+- `Blazing`: 1 damage at EOR, doubles on reflex to downgrade to burning, stop drop & roll
+- `Poisoned`: 1 damage at EOR (end of round), doubles on toughness to negate, become contaminated if gains another poisoned
+- `Contaminated`: 1 damage at EOR, doubles on toughness to downgrade to poisoned
+- `Confused`: No recovery of burst at EOR. Wit doubles recovers. Another instance increases to confounded.
+- `Confounded`: No recovery of burst at EOR, Wit reduces to confused.
+- `Stunned`: At start of next turn, delay 2 instead.
+- `Dazed`: At start of next turn, delay 2 instead then get stunned instead of dazed.
+- `Flanked`: +1 to all attacks against you (2 adjacent attackers not adjacent to each other)
+- `Overwhelmed`: +1 to all attacks against you (3+ adjacent attackers)
 - Various things to lower stats by 1
 
 ## Examples
@@ -195,110 +195,110 @@ Weapons have dice pools as well as abilities that trigger on particular tuples.
 
 Hits a square and all adjacent squares
 
-Cost: 1 burst
-Speed: 9
-Dice Pool: 3d10
-Save: Reflexes
+- Cost: 1 burst
+- Speed: 9
+- Dice Pool: 3d10
+- Save: Reflexes
 
-Doubles: 1 damage
-Triples: 2 damage; Even: Victims gain burning; Odd: Radius of fireball increases by 1
-Quadruples: 4 damage; +1 radius, Victims set blazing
-Quintuples: 7 damage; +2 radius, Victims set blazing
+- Doubles: 1 damage
+- Triples: 2 damage; Even: Victims gain `burning`; Odd: Radius of fireball increases by 1
+- Quadruples: 4 damage; +1 radius, Victims gain `blazing`
+- Quintuples: 7 damage; +2 radius, Victims gain `blazing`
 
 #### Splash
 
-Cost: 1 burst
-Speed: 6
-Dice Pool: 2d10
-Save: Reflexes
+- Cost: 1 burst
+- Speed: 6
+- Dice Pool: 2d10
+- Save: Reflexes
 
-Target gains the Wet status
+Doubles: Target gains `wet`
 
 #### Chill Blast
 
-Cost: 1 burst
-Speed: 9
-Dice Pool: 3d10
-Save: Toughness
+- Cost: 1 burst
+- Speed: 9
+- Dice Pool: 3d10
+- Save: Toughness
 
 Doubles: 1 damage
-Triples: 3 damage; victim gains chilled status
-Quadruples: 5 damage; victim gains frozen status
-Quintuples: 8 damage; victim gains frozen status
+Triples: 3 damage; victim gains `chilled`
+Quadruples: 5 damage; victim gains `frozen`
+Quintuples: 8 damage; victim gains `frozen`
 
 #### Corrode
 
-Cost: 1 burst
-Speed: 8
-Dice Pool: 3d10
-Save: Toughness
+- Cost: 1 burst
+- Speed: 8
+- Dice Pool: 3d10
+- Save: Toughness
 
-Doubles: 1 damage
-Triples: 2 damage; victim poisoned
+- Doubles: 1 damage
+- Triples: 2 damage; victim gains `poisoned`
 ...
 
 #### Haste
 
-Cost: 1 burst
-Speed: 10
-Dice Pool: 3d10
+- Cost: 1 burst
+- Speed: 10
+- Dice Pool: 3d10
 
-Doubles: Target gains `hastened`
-Triples: Target gains `hastened` and moves up 1 time
-Quadruples: Target gains `hastened` and a second target also gain `hastened`
-Quintuples: Any number of targets gain `hastened`
+- Doubles: Target gains `hastened`
+- Triples: Target gains `hastened` and moves up 1 time
+- Quadruples: Target gains `hastened` and a second target also gain `hastened`
+- Quintuples: Any number of targets gain `hastened`
 
 #### Omnisense
 
-Cost: 1 burst
-Speed: 8
-Dice Pool: 3d10
+- Cost: 1 burst
+- Speed: 8
+- Dice Pool: 3d10
 
-Doubles: Target is immune to `overwhelmed`
+- Doubles: Target is immune to `overwhelmed`
 
 #### Counterspell
 
-Cost: 1 burst
-Speed: N/A
-Dice Pool: 5d10
+- Cost: 1 burst
+- Speed: N/A
+- Dice Pool: 5d10
 
-Counter another spell's tuples on a 1-1 basis. Gain `stunned`. This spell cannot be cast if you are `dazed`.
+- Counter another spell's tuples on a 1-1 basis. Gain `stunned`. This spell cannot be cast if you are `dazed`.
 
 #### Move Earth
 
-Cost: 1 burst
-Speed: 6
-Dice Pool: 3d10
+- Cost: 1 burst
+- Speed: 6
+- Dice Pool: 3d10
 
-Doubles: Raise or lower 1 square by 1m.
-Triples: Raise or lower 2 squares by 1m or 1 square by 2m
-Quadruples: 4
-Quintuples: 8
+- Doubles: Raise or lower 1 square by 1m.
+- Triples: Raise or lower 2 squares by 1m or 1 square by 2m
+- Quadruples: 4
+- Quintuples: 8
 
 #### Make Whole
 
-Cost: 0
-Speed: 9
-Dice Pool: 3d10
+- Cost: 0
+- Speed: 9
+- Dice Pool: 3d10
 
 Does not stack.
 
-Doubles: Remove a negative status from the target
-Quadruples: Remove a negative status, then remove another one
-Quintuples: Remove all negative statuses, then remove all negative statuses again
+- Doubles: Remove a negative status from the target
+- Quadruples: Remove a negative status, then remove another one
+- Quintuples: Remove all negative statuses, then remove all negative statuses again
 
 #### Heal
 
-Cost: 1 burst
-Speed: 7
-Dice Pool: 3d10
+- Cost: 1 burst
+- Speed: 7
+- Dice Pool: 3d10
 
 Does not stack
 
-Doubles: Target regains 1 health
-Triples: Target regains 4 health
-Quadruples: 9
-Quintuples: 16
+- Doubles: Target regains 1 health
+- Triples: Target regains 4 health
+- Quadruples: 9
+- Quintuples: 16
 
 #### Big Heal
 

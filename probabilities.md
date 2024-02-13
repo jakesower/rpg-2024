@@ -1,4 +1,4 @@
-## 0d6:
+## 0d6
 
 | Doubles | 2x Doubles | 3x Doubles | Triples | 2x Triples | Quadruples | Quintuples |
 |  ---  |  ---  |  ---  |  ---  |  ---  |  ---  |  ---  |
@@ -10,7 +10,7 @@
 | 7d10 | 90% | 41% | 4% | 23% | 0% | 2% | 0% |
 | 8d10 | 95% | 60% | 13% | 33% | 1% | 5% | 0% |
 
-## 1d6:
+## 1d6
 
 | Doubles | 2x Doubles | 3x Doubles | Triples | 2x Triples | Quadruples | Quintuples |
 |  ---  |  ---  |  ---  |  ---  |  ---  |  ---  |  ---  |
@@ -23,7 +23,7 @@
 | 7d10 | 96% | 62% | 14% | 34% | 2% | 5% | 0% |
 | 8d10 | 99% | 78% | 28% | 45% | 4% | 8% | 1% |
 
-## 2d6:
+## 2d6
 
 | Doubles | 2x Doubles | 3x Doubles | Triples | 2x Triples | Quadruples | Quintuples |
 |  ---  |  ---  |  ---  |  ---  |  ---  |  ---  |  ---  |
@@ -37,7 +37,7 @@
 | 7d10 | 99% | 80% | 30% | 48% | 4% | 9% | 1% |
 | 8d10 | >99.5% | 90% | 48% | 59% | 9% | 13% | 2% |
 
-## 3d6:
+## 3d6
 
 | Doubles | 2x Doubles | 3x Doubles | Triples | 2x Triples | Quadruples | Quintuples |
 |  ---  |  ---  |  ---  |  ---  |  ---  |  ---  |  ---  |
@@ -51,7 +51,7 @@
 | 7d10 | >99.5% | 91% | 50% | 62% | 10% | 15% | 2% |
 | 8d10 | >99.5% | 96% | 67% | 72% | 18% | 20% | 3% |
 
-## 4d6:
+## 4d6
 
 | Doubles | 2x Doubles | 3x Doubles | Triples | 2x Triples | Quadruples | Quintuples |
 |  ---  |  ---  |  ---  |  ---  |  ---  |  ---  |  ---  |
@@ -65,7 +65,7 @@
 | 7d10 | >99.5% | 97% | 69% | 75% | 20% | 23% | 4% |
 | 8d10 | >99.5% | 99% | 81% | 83% | 30% | 29% | 6% |
 
-## 5d6:
+## 5d6
 
 | Doubles | 2x Doubles | 3x Doubles | Triples | 2x Triples | Quadruples | Quintuples |
 |  ---  |  ---  |  ---  |  ---  |  ---  |  ---  |  ---  |
