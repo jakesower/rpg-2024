@@ -1,0 +1,2 @@
+Name,Cost,Speed,Dice,Save,Description,Doubles,Triples,Quadruples,Quintuples
+Fireball,1 burst,10,Reflex,Shoots a ball of fire that hits a square and all adjacent squares,1 damage,"2 damage, evens: victims gain `burning`, odds: radius of fireball increases by 1","4 damage, +1 radius, victims gain `blazing`","6 damage, +2 radius, victims gain `blazing`"
