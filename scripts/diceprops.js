@@ -1,4 +1,4 @@
-const [minTuples, maxTuples] = [2, 3];
+let probs = {};
 
 const tests = [
   ["Doubles", (items) => hasTuples(2, 1, items)],
@@ -29,12 +29,15 @@ const hasTuples = (tup, n, items) => {
   return false;
 };
 
-const rounds = 5000000;
+const rounds = 50000;
 
 for (let d6s = 0; d6s < 6; d6s += 1) {
   console.log(`\n## ${d6s}d6:`);
   console.log(`\n| Dice | ${tests.map((t) => t[0]).join(" | ")} |`);
   console.log(`| --- | ${tests.map(() => " --- ").join(" | ")} |`);
+
+  probs[d6s] = {};
+
   for (let d10s = 0; d10s < 9; d10s += 1) {
     if (d6s + d10s < 2) continue;
 
@@ -57,6 +60,8 @@ for (let d6s = 0; d6s < 6; d6s += 1) {
         if (test(items)) results[t] += 1;
       }
     }
+
+    probs[d6s][d10s] = {};
 
     for (let t = 0; t < results.length; t += 1) {
       let n = Math.round((results[t] * 1000) / rounds) / 10;

@@ -1,0 +1,12 @@
+Name,Weight,Speed,Type,Range,Dice,Parry,Misc,Doubles,Triples,Quadruples,Quintuples
+Short Sword,1,7,Slashing,1,Finesse/- +2,Finesse/Dexterity -3,+2 against unarmored,1 damage,2 damage,"3 damage, `bleeding`","5 damage, `bleeding`"
+Long Sword,2,10,Slashing,1,Finesse/- +4,Finesse/Dexterity -2,+2 against unarmored,1 damage,"2 damage, `bleeding`","3 damage, `hemorrhaging`","5 damage, `hemorrhaging`"
+Dagger (Melee),0,6,Slashing,1,-/Finesse +4,,+2 against unarmored,1 damage,"1 damage, `bleeding`","2 damage, `bleeding`","3 damage, `hemorrhaging`"
+Rapier,0,7,Slashing,1,Finesse/Finesse,Finesse/Dexterity -1,,,3 damage,"4 damage, `bleeding`","5 damage, `hemorrhaging`"
+Javelin,0,8,Piercing,15 squares,-/- +7,,,1 damage,"2 damage, ignore 1 DR","3 damage, ignore 2 DR","5 damage, ignore 2 DR"
+Long Bow,2,10,Piercing,25 squares,Finesse/Dexterity,,,,"3 damage, ignore 1 DR","5 damage, ignore 2 DR","8 damage, ignore 2 DR"
+Short Bow,1,8,Piercing,15 squares,Dexterity/- +5,,,,"1 damage, ignore 1 DR","3 damage, ignore 2 DR","6 damage, ignore 2 DR"
+Crossbow,1,11,Piercing,25 squares,-/Dexterity +6,,,,"3 damage, ignore all DR","4 damage, ignore all DR","5 damage, ignore all DR"
+Battleaxe,2,11,"Slashing, Impact",1,Power/Strength +2,,,1 damage,"2 damage, `bleeding`, ignore 1 DR","5 damage, `bleeding`, ignore 1 DR","8 damage, `bleeding`, ignore 2 DR"
+Hand Axe,1,7,"Slashing, Impact",10 squares,Power/Dexterity +3,,,1 damage,2 damage,4 damage,6 damage
+Quarterstaff,1,10,Impact,1,Dexterity/Finesse +4,Finesse/Dexterity -1,,1 damage,1 damage,2 damage,4 damage

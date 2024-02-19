@@ -1,0 +1,13 @@
+Name,Description,Expiration Type,Misc,Back Name,Back Description
+Blessed,+1 to a skill checks,Trigger,,Exalted,+2 to a skill check
+Berserk,+1 to melee attacks,Time,,,
+In Motion,Protection 2 vs `Ranged attack`s,Other: Beginning of your turn.,,,
+Hastened,Actions that take 6 or more time take 1 less time,Trigger,,,
+Prone,"Protection 2 vs `Ranged attack`s, Vulnerability 2 vs `Melee attack`s",Action: 2 time action to stand up,,,
+Chilled,Actions take 1 additional time,Save: Toughness/- (doubles),`burning` and `blazing` are negated and reduce this status.,Frozen,Actions take 1 additional time
+Burning,1 damage at EOR.,Action: 5 time action that gives you `prone`.,`chilled` and `frozen` are negated and reduce this status. `wet` eliminates this status.,Blazing,1 damage at EOR
+Wet,Vulnerability 1 vs `Electric` attacks,Other: 1 hour in a warm place,`burning` and `blazing` are negated and negate this status,,
+Poisoned,1 damage at EOR.,Save: Toughness/- (doubles),,Contaminated,1 damage at EOR.
+Confused,You do not recover `burst` at EOR.,Save: Wit (doubles),,,
+Stunned,"At the beginning of your next turn, `delay` 1.",Trigger,,Dazed,"At the beginning of your next turn, `delay` 2."
+Bleeding,1 damage at EOR.,Save: Toughness/Spirit (doubles),"Recovering any HP negates this. (If healing occurs at EOR, you suffer 1 damage at the same time the healing takes effect.)",Hemorrhaging,1 damage at EOR.
