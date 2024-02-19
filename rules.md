@@ -19,7 +19,7 @@ Make a fun RPG with novel rules and interesting combat.
 
 - Assign attributes at 5, 4, 3, 3, 2.
 - HP = 5 + 2\*Toughness + 1\*Resolve + 1\*Spirit
-- Bursts = Wit
+- FP = Wit
 
 ## Dice System
 
@@ -119,6 +119,10 @@ The GM decides that this is a raw test of strength that no skill can help with. 
 - Deception
 - Life Magic
 - Intimidation
+
+## Focus Points (FP)
+
+Focus points are a currency to be spent on activating particular abilities. They're especially useful when casting spells. Your maximum FP is equal to your Wit. You recover 1 FP at the end of each round.
 
 ## Weapons
 
