@@ -8,6 +8,7 @@ const tests = [
   ["2x Triples", (items) => hasTuples(3, 2, items)],
   ["Quadruples", (items) => hasTuples(4, 1, items)],
   ["Quintuples", (items) => hasTuples(5, 1, items)],
+  ["Sextuples", (items) => hasTuples(6, 1, items)],
 ];
 
 const hasTuples = (tup, n, items) => {
@@ -29,7 +30,7 @@ const hasTuples = (tup, n, items) => {
   return false;
 };
 
-const rounds = 50000;
+const rounds = 500000;
 
 for (let d6s = 0; d6s < 6; d6s += 1) {
   console.log(`\n## ${d6s}d6:`);
@@ -38,7 +39,7 @@ for (let d6s = 0; d6s < 6; d6s += 1) {
 
   probs[d6s] = {};
 
-  for (let d10s = 0; d10s < 9; d10s += 1) {
+  for (let d10s = 0; d10s < 11; d10s += 1) {
     if (d6s + d10s < 2) continue;
 
     const results = tests.map(() => 0);
