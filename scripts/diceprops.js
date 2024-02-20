@@ -30,7 +30,7 @@ const hasTuples = (tup, n, items) => {
   return false;
 };
 
-const rounds = 500000;
+const rounds = 5000000;
 
 for (let d6s = 0; d6s < 6; d6s += 1) {
   console.log(`\n## ${d6s}d6:`);
